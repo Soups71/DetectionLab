@@ -25,7 +25,8 @@ What does this mean in normal people language?
 
 It ultimately build us our own personal AD environment. It also has some sick tools preloaded within the network.  I do have to admit that it's not perfect and has it's challenges.
 
-![](Pasted image 20230810204335.png)
+![](Pasted_image_20230810204335.png)
+
 
 ### What is it used for?
 
